@@ -1,0 +1,12 @@
+.sideBar_wrapper{
+    /*width: 215px;*/
+    height: 100vh;
+    background-color: #398096;
+}
+.logo{
+    color: white;
+    text-align: center;
+    margin-bottom: 45px;
+    padding-top: 20px;
+
+}

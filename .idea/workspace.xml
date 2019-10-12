@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42d59702-8dd6-4536-a694-ab1ee1e3f2e1" name="Default Changelist" comment="" />
+    <list default="true" id="42d59702-8dd6-4536-a694-ab1ee1e3f2e1" name="Default Changelist" comment="project setup">
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/nav-file-text-inactive@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/nav-phone-inactive@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Announcement/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Announcement/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dashboard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dashboard/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Gradebook/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Gradebook/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Performance/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Performance/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/schedule/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/schedule/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sideBar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sideBar/sideBarItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sideBar/sideBarItem/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sideBar/sideBarItems/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sideBar/sideBarItems/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sideBar/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +45,20 @@
   <component name="ProjectId" id="1S0oDeRaglcJSwrQedSDJiRgfQa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Gplanet/zeta-dashboard" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,6 +83,11 @@
       <option name="presentableId" value="Default" />
       <updated>1570709755252</updated>
       <workItem from="1570709758570" duration="1570000" />
+      <workItem from="1570711892270" duration="1165000" />
+      <workItem from="1570714708491" duration="2138000" />
+      <workItem from="1570718623737" duration="8796000" />
+      <workItem from="1570738689591" duration="12369000" />
+      <workItem from="1570829633224" duration="12795000" />
     </task>
     <task id="LOCAL-00001" summary="project setup">
       <created>1570710545811</created>
@@ -62,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
